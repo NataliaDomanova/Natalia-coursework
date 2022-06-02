@@ -10,4 +10,4 @@
 * нацеленный на результат,
 * стрессоустойчивый.
 
-![Getting Started](./Img/photo.jpg)
+![mother of dragons](./Img/photo.jpg)
